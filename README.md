@@ -76,6 +76,7 @@ pnpm preview
 2. Enable GitHub Pages in repository settings:
    - Settings → Pages → Source → GitHub Actions
 3. Push code to the `main` branch; Actions will automatically build and deploy
+4. Change the path of the deploy.yml file to ./.github/workflows/deploy.yml
 
 ### Method 2: Manual Deployment
 

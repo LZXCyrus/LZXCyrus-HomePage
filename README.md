@@ -1,6 +1,6 @@
 
 # LZXCyrus-HomePage
-[中文](README_zh.md) | [English](README.md)
+[English](https://github.com/LZXCyrus/LZXCyrus-HomePage/edit/main/README.md) | [中文](https://github.com/LZXCyrus/LZXCyrus-HomePage/edit/main/README_zh.md)
 
 A modern personal homepage designed in a minimalist humanistic style, featuring smooth dynamic backgrounds, fully responsive layout, and seamless page transitions. Built with Vite + React + Tailwind CSS + Framer Motion.
 

@@ -1,5 +1,5 @@
 # LZXCyrus-HomePage
-[中文](README_zh.md) | [English](README.md)
+[English](https://github.com/LZXCyrus/LZXCyrus-HomePage/edit/main/README.md) | [中文](https://github.com/LZXCyrus/LZXCyrus-HomePage/edit/main/README_zh.md)
 
 
 一款采用极简人文主义设计风格打造的现代个人主页，拥有流畅的动态背景、全响应式布局与丝滑的页面切换效果，使用 Vite + React + Tailwind CSS + Framer Motion 构建。

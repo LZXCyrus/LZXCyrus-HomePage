@@ -76,6 +76,7 @@ pnpm preview
 2.  在仓库设置中启用 GitHub Pages：
    - Settings → Pages → Source → GitHub Actions
 3.  推送代码到 `main` 分支，Actions 将自动构建并部署
+4.  把deploy.yml文件的路径改为./.github/workflows/deploy.yml
 
 ### 方法二：手动部署
 

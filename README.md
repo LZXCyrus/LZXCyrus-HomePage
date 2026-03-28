@@ -201,17 +201,6 @@ anthropic-portfolio/
 | Charcoal | #2D2926 | Primary text |
 | Sage | #9CAF88 | Accents, charts |
 
-### Typography
-
-- **Serif Font**: Cormorant Garamond - Headings, large display text
-- **Sans-serif Font**: Inter - Body text, UI elements
-
-### Animation Principles
-
-- Page transitions: Fade in + slide up, 400ms ease-out
-- Button interactions: Scale 1.05, 300ms
-- Scroll animations: Fade in when entering viewport
-
 ## Browser Support
 
 - Chrome 90+

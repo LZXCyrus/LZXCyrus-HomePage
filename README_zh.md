@@ -206,17 +206,6 @@ anthropic-portfolio/
 | Charcoal | #2D2926 | 主要文字 |
 | Sage | #9CAF88 | 辅助色、图表 |
 
-### 字体
-
-- **衬线字体**: Cormorant Garamond - 用于标题、大字号
-- **无衬线字体**: Inter - 用于正文、UI 元素
-
-### 动画原则
-
-- 页面切换：淡入 + 上移，400ms ease-out
-- 按钮交互：scale 1.05，300ms
-- 滚动动画：进入视口时淡入
-
 ## 浏览器兼容性
 
 - Chrome 90+
